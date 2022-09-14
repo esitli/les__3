@@ -1,0 +1,44 @@
+.sub{
+	color: rgb(79, 85, 94);
+}
+.title{
+	color: rgb(41, 37, 37);
+}
+.menu{
+	color: rgb(39, 37, 66);
+}
+.link{
+	color: darkslategray;
+}
+.header,
+.footer{
+	color: teal;
+}
+.text_1 .contain{
+	color: red;
+}
+.text_2 .contain{
+	color: darkgreen;
+}
+.contain{
+	color: rgb(223, 30, 120);
+}
+
+.part_1 p{
+	color: rgb(107, 97, 93);
+}
+.part_6 p{
+	color: royalblue;
+}
+.part_7 .text_2{
+	color: rgb(92, 84, 12);
+}
+p.text_2{
+	color: tomato;
+}
+.part_10{
+	color: cornflowerblue;
+}
+.part_8 *{
+	color: darkorange;
+}
